@@ -1,0 +1,30 @@
+{
+  "name": "myshop",
+  "description": "node net shop",
+  "main": "index.js",
+  "authors": [
+    "yangyong"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "net",
+    "shop"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.4.9",
+    "angular-route": "^1.4.9",
+    "bootstrap": "^3.3.6"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "myshop",
+  "version": "1.0.0",
+  "description": "这是一个简单的网上商城项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yang10147/Myshop.git"
+  },
+  "keywords": [
+    "shop",
+    "node",
+    "express",
+    "bower"
+  ],
+  "author": "yangyong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yang10147/Myshop/issues"
+  },
+  "homepage": "https://github.com/yang10147/Myshop#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
