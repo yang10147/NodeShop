@@ -23,6 +23,13 @@
   },
   "homepage": "https://github.com/yang10147/Myshop#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "body-parser": "^1.14.2",
+    "connect-mongo": "^1.1.0",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mongoose": "^4.3.7",
+    "multer": "^1.1.0",
+    "uuid": "^2.0.1"
   }
 }
